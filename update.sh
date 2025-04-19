@@ -31,3 +31,4 @@ if [ -e "${UPDATE_SCRIPT}" ]; then
 	log_action_end_msg $?
 fi
 printf "Done!\n"
+chgvhgv
